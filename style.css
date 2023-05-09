@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(46, 230, 220);
+}
+p {
+    font-size: 20px;
+}
+#score{
+    font-size: 50px;
+    margin: left;
+}
+#time {
+    font-size: 60px;
+    float:right;
+    margin:right; 
+}
+#span {
+    color: red;
+}
